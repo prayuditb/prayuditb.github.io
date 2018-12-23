@@ -17,6 +17,7 @@
   "scripts": {
     "dev": "node server",
     "build": "next build",
+    "export-static": "next export",
     "start": "NODE_ENV=production node server"
   },
   "devDependencies": {
